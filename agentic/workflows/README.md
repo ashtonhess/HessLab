@@ -5,8 +5,9 @@ Each workflow is a runbook the orchestrator follows for a specific kind of task.
 ## Available workflows
 
 | Workflow | Purpose | Required subagents |
-|---|---|---|
+| --- | --- | --- |
 | [`car_search`](car_search.md) | Find used cars for sale in the US matching feature, budget, and reliability constraints. | `car_listings_agent`, `deep_research_agent` |
+| [`research`](research.md) | Run generic research jobs that fan out focused questions, then synthesize the evidence into a decision-ready artifact. | `deep_research_agent`, `research_synthesizer_agent` |
 
 ## Adding a new workflow
 

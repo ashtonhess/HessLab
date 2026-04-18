@@ -7,14 +7,16 @@ Human-facing index of subagents available in this repo. Each entry describes **w
 ## Available subagents
 
 | Name | Purpose | Model | Catalog entry | Canonical definition |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | `car_listings_agent` | Find direct links to individual vehicle listings across major US car platforms. | `gemini-3-flash` | [car_listings.md](car_listings.md) | [`.cursor/agents/car_listings.md`](../../.cursor/agents/car_listings.md) |
 | `deep_research_agent` | Deep, cross-source web research on a focused topic. | `gemini-3-flash` | [deep_research.md](deep_research.md) | [`.cursor/agents/deep_research.md`](../../.cursor/agents/deep_research.md) |
+| `research_synthesizer_agent` | Turn verified research into structured options, recommendations, and final artifacts. | `gpt-5.4-mini` | [research_synthesizer.md](research_synthesizer.md) | [`.cursor/agents/research_synthesizer.md`](../../.cursor/agents/research_synthesizer.md) |
 
 ## Adding a new subagent
 
 1. **Write the canonical definition** at `.cursor/agents/<name>.md` with Cursor frontmatter:
-   ```
+
+   ```yaml
    ---
    is_background: true
    name: <name>_agent
@@ -23,6 +25,7 @@ Human-facing index of subagents available in this repo. Each entry describes **w
    readonly: true
    ---
    ```
+
    Follow the pattern in the existing canonical files. Keep the subagent's scope narrow.
 
 2. **Write the catalog entry** at `agentic/agents/<name>.md` using the template below.

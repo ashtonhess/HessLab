@@ -16,7 +16,7 @@ This folder contains:
 
 ### 1. Pick a workflow
 
-Browse [`workflows/`](workflows/) and pick one (e.g. [`workflows/car_search.md`](workflows/car_search.md)).
+Browse [`workflows/`](workflows/) and pick one (e.g. [`workflows/car_search.md`](workflows/car_search.md) or [`workflows/research.md`](workflows/research.md)).
 
 ### 2. Start a fresh Cursor chat
 
@@ -26,7 +26,7 @@ Use a strong orchestrator model — e.g. **Opus 4.5+ with max reasoning**, or **
 
 This is the universal bootstrap. Replace `<WORKFLOW_NAME>` with the filename of the workflow you picked (e.g. `car_search`).
 
-```
+```text
 You are the orchestrating agent for the <WORKFLOW_NAME> workflow in this repo.
 
 Before we start, set yourself up:
@@ -55,7 +55,7 @@ Once the orchestrator reports ready, give it your actual task. Every workflow fi
 
 ## How this is organized
 
-```
+```text
 agentic/
 ├── README.md            ← you are here
 ├── agent_setup.md       ← orchestrator + subagent doctrine
