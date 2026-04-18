@@ -25,6 +25,15 @@ Run a generic multi-question research workflow that decomposes a user's problem,
 
 Confirm both catalog entries exist in [`../agents/`](../agents/) **and** both canonical definitions exist in [`../../.cursor/agents/`](../../.cursor/agents/) before starting.
 
+## Common optional helper agents
+
+These are not required for every research run, but the orchestrator should actively consider them during Stage 2 when the brief involves route planning, trip guides, brochure-style outputs, or stop-heavy destination research:
+
+- [`stop_discovery_agent`](../agents/stop_discovery.md) — generate and rank route-worthy stops.
+- [`local_food_curation_agent`](../agents/local_food_curation.md) — turn a route into a real meal plan.
+- [`traffic_risk_synthesis_agent`](../agents/traffic_risk_synthesis.md) — convert route, holiday, and closure evidence into go / shorten / bail guidance.
+- [`visual_sourcing_agent`](../agents/visual_sourcing.md) — gather representative visuals and image source pages.
+
 ## Bootstrap prompt
 
 **Prerequisite:** `HessLab/` must be opened as your Cursor workspace root (File → Open Folder → select `HessLab`). Cursor auto-discovers subagents from the workspace root's `.cursor/agents/` folder only — the orchestrator cannot dispatch `deep_research_agent` or `research_synthesizer_agent` otherwise.
@@ -116,6 +125,7 @@ Exit: orchestrator restates the full spec back to the user and receives explicit
 
 - Do `deep_research_agent` and `research_synthesizer_agent` cover everything this brief needs?
 - Is there a repetitive domain-specific task that warrants a new specialized subagent?
+- If this is a trip-planning or route-guide brief, should any of the optional helper agents be added to the roster for stop discovery, food planning, traffic synthesis, or visual sourcing?
 
 If yes, propose it to the user per doctrine §3.3 / §6. Only proceed once the roster is settled.
 
@@ -127,6 +137,7 @@ If yes, propose it to the user per doctrine §3.3 / §6. Only proceed once the r
 - Separate fact-finding from synthesis.
 - Decide what can be researched in parallel.
 - Define what evidence each sub-question must return.
+- Decide whether the work should be split not just by topic, but by **research function** (for example: stop discovery vs food vs traffic vs visuals).
 
 Exit: a research plan with a clear sub-question list and dispatch plan.
 
@@ -195,6 +206,7 @@ Summarize to the user in chat:
 6. **Propose a new subagent** when the work reveals a reusable, repetitive task not well-covered by the existing roster.
 7. **Write only to the user-specified path.** The orchestrator must not invent filenames or directories.
 8. **Respect the requested artifact shape.** If the user approved a custom schema, do not fall back to the standard one.
+9. **Use narrow helper agents when installed.** For route-heavy or brochure-style briefs, prefer dedicated stop / food / traffic / visual helper agents over repeatedly asking the broad research agent to do all four jobs at once.
 
 ## Output format
 

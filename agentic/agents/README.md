@@ -10,7 +10,11 @@ Human-facing index of subagents available in this repo. Each entry describes **w
 | --- | --- | --- | --- | --- |
 | `car_listings_agent` | Find direct links to individual vehicle listings across major US car platforms. | `gemini-3-flash` | [car_listings.md](car_listings.md) | [`.cursor/agents/car_listings.md`](../../.cursor/agents/car_listings.md) |
 | `deep_research_agent` | Deep, cross-source web research on a focused topic. | `gemini-3-flash` | [deep_research.md](deep_research.md) | [`.cursor/agents/deep_research.md`](../../.cursor/agents/deep_research.md) |
+| `local_food_curation_agent` | Turn a route or stop list into a practical local-food plan with primary and backup meal choices. | `gemini-3-flash` | [local_food_curation.md](local_food_curation.md) | [`.cursor/agents/local_food_curation.md`](../../.cursor/agents/local_food_curation.md) |
 | `research_synthesizer_agent` | Turn verified research into structured options, recommendations, and final artifacts. | `gpt-5.4-mini` | [research_synthesizer.md](research_synthesizer.md) | [`.cursor/agents/research_synthesizer.md`](../../.cursor/agents/research_synthesizer.md) |
+| `stop_discovery_agent` | Discover and rank route-worthy stops by theme, detour cost, and stop variety. | `gemini-3-flash` | [stop_discovery.md](stop_discovery.md) | [`.cursor/agents/stop_discovery.md`](../../.cursor/agents/stop_discovery.md) |
+| `traffic_risk_synthesis_agent` | Turn route, weather, and holiday-traffic evidence into a practical go/no-go recommendation. | `gpt-5.4-mini` | [traffic_risk_synthesis.md](traffic_risk_synthesis.md) | [`.cursor/agents/traffic_risk_synthesis.md`](../../.cursor/agents/traffic_risk_synthesis.md) |
+| `visual_sourcing_agent` | Find representative visuals and source pages for brochure-style or highly visual research outputs. | `gemini-3-flash` | [visual_sourcing.md](visual_sourcing.md) | [`.cursor/agents/visual_sourcing.md`](../../.cursor/agents/visual_sourcing.md) |
 
 ## Adding a new subagent
 
