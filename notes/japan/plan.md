@@ -11,15 +11,49 @@ Use this as the day-of plan for the **North Fuji / Deep Lakes Loop**.
 - **End location:** `Shinjuku`
 - **Car return:** Do **not** plan on same-day return. `OnlyJDM Haneda` business hours are `10:00-18:30`, and this route is planned as a `Shinjuku` overnight parking return.
 - **Expected day length:** about `10h`
-- **Expected driving time:** about `5h 15m-5h 30m`
-- **Expected distance:** about `250 km / 155 mi`
-- **Mileage note:** OnlyJDM rentals commonly include `200 km / 24h`. This route likely goes over by about `50 km`. If the car has a `JPY 150/km` overage rate, expect roughly `JPY 7,500` in mileage overage.
+- **Google Maps baseline driving time:** about `5h 18m`
+- **Planned driving blocks in this schedule:** about `7h 10m`, because the plan includes pickup friction, navigation friction, parking exits, and Golden Week traffic buffer.
+- **Google Maps route distance:** about `316 km / 196 mi`
+- **Mileage note:** OnlyJDM rentals commonly include `200 km / 24h`. This route likely goes over by about `116 km`. If the car has a `JPY 150/km` overage rate, expect roughly `JPY 17,400` in mileage overage.
 
 ## Main Google Maps Route
 
 - [Full route: OnlyJDM Haneda -> Tenka Chaya -> Oishi Park -> Nenba -> Narusawa Ice Cave -> Lake Motosuko Observation Park -> Lake Shoji -> Public Shinjuku Parking](https://www.google.com/maps/dir/?api=1&origin=OnlyJDM+Haneda+Main+Store%2C+2+Chome-20-14+Omoriminami%2C+Ota+City%2C+Tokyo+143-0013&destination=Public+Shinjuku+Parking%2C+2-10-1+Kabukicho%2C+Shinjuku-ku%2C+Tokyo+160-0021&travelmode=driving&waypoints=Tenka+Chaya%2C+2739+Kawaguchi%2C+Fujikawaguchiko%2C+Yamanashi+401-0304%7COishi+Park%2C+2585+Oishi%2C+Fujikawaguchiko%2C+Yamanashi+401-0305%7CSaiko+Iyashi-no-Sato+Nenba%2C+2710+Saiko+Nenba%2C+Fujikawaguchiko%2C+Yamanashi+401-0332%7CNarusawa+Ice+Cave%2C+8533+Narusawa%2C+Yamanashi+401-0320%7CLake+Motosuko+Observation+Park%2C+Nakanokura%2C+Minobu%2C+Yamanashi+409-3104%7CLake+Shoji%2C+Shoji%2C+Fujikawaguchiko%2C+Yamanashi+401-0336)
 
 If Google Maps drops or reorders a waypoint, use the leg-by-leg links below instead.
+
+Google Maps verification note:
+
+- The route data checked for this plan shows about `316 km` and `5h 18m` of baseline driving.
+- Google Maps web URLs do not reliably preserve a future `4/28 10:00 AM` departure time, so the day-of traffic estimate must still be checked in the app before leaving.
+- The schedule below uses conservative time blocks. The `Google Maps drive` bullets are the map values; the `schedule block` is the time reserved in this plan.
+
+## Updated Weather Expectations
+
+Updated morning of `Tuesday, April 28`.
+
+### Overall Read
+
+- **Tokyo / Haneda:** expected to be **sunny to partly cloudy**, mild, and generally fine for pickup and city driving.
+- **Fuji Five Lakes / Kawaguchiko / west lakes:** expected to be **cooler than Tokyo**, with more cloud risk and a small chance of light rain.
+- **Snow / ice:** no meaningful snow is expected for this route today.
+- **Road concern:** normal wet-road caution only if light showers pass through. No winter-road issue is expected.
+- **Fuji visibility:** not guaranteed. April visibility is moderate, and clouds commonly build around Fuji after the morning. Because this route reaches the main Fuji viewpoints after midday, check live cameras before committing to any visibility-dependent add-on.
+
+### Expected Temperatures
+
+- **Haneda / Tokyo:** roughly `18-20 C / 64-68 F` daytime, around `10-12 C / 50-54 F` low.
+- **Fujikawaguchiko / Kawaguchiko:** roughly `16-18 C / 61-64 F` daytime, around `5-7 C / 41-45 F` low.
+- **Lake Motosu / Lake Shoji:** expect it to feel cooler than central Tokyo, especially near the water and late afternoon.
+- **Narusawa Ice Cave:** bring a layer. The cave is cold, wet, slippery, and low-ceilinged regardless of outside weather.
+
+### What This Means For The Plan
+
+- Run the route as planned if live cameras show at least partial Fuji visibility and Chuo traffic is acceptable.
+- If Fuji is hidden before departure, keep the route only if you still want the lake / village / cave drive. Shorten `Tenka Chaya`, `Oishi Park`, `Lake Motosu`, and `Lake Shoji`.
+- Bring a light jacket or rain shell, especially for `Tenka Chaya`, `Lake Motosu`, `Lake Shoji`, and `Narusawa Ice Cave`.
+- Keep sunglasses available for Tokyo / highway driving, but do not count on blue-sky Fuji views by afternoon.
+- If rain begins in the lakes area, skip rough shoulders and unpaved pull-offs. Use only marked paved parking areas.
 
 ## Before Pickup
 
@@ -45,7 +79,8 @@ If Google Maps drops or reorders a waypoint, use the leg-by-leg links below inst
 ### Leg 1 — Pickup To Tenka Chaya
 
 - **Time:** `10:00 AM-1:00 PM`
-- **Drive:** about `3h`
+- **Google Maps drive:** `143 km`, about `2h 11m`
+- **Schedule block:** `3h`, including pickup, outbound traffic, toll-road navigation, and Golden Week buffer.
 - **Map:** [OnlyJDM Haneda -> Tenka Chaya](https://www.google.com/maps/dir/?api=1&origin=OnlyJDM+Haneda+Main+Store%2C+2+Chome-20-14+Omoriminami%2C+Ota+City%2C+Tokyo+143-0013&destination=Tenka+Chaya%2C+2739+Kawaguchi%2C+Fujikawaguchiko%2C+Yamanashi+401-0304&travelmode=driving)
 - **Destination:** [Tenka Chaya / Misaka Pass](https://www.google.com/maps/search/?api=1&query=Tenka+Chaya%2C+2739+Kawaguchi%2C+Fujikawaguchiko%2C+Yamanashi+401-0304)
 
@@ -68,7 +103,8 @@ At Tenka Chaya:
 ### Leg 2 — Tenka Chaya To Oishi Park
 
 - **Time:** `1:35-2:00 PM`
-- **Drive:** about `25m`
+- **Google Maps drive:** `12.7 km`, about `23m`
+- **Schedule block:** `25m`
 - **Map:** [Tenka Chaya -> Oishi Park](https://www.google.com/maps/dir/?api=1&origin=Tenka+Chaya%2C+2739+Kawaguchi%2C+Fujikawaguchiko%2C+Yamanashi+401-0304&destination=Oishi+Park%2C+2585+Oishi%2C+Fujikawaguchiko%2C+Yamanashi+401-0305&travelmode=driving)
 - **Destination:** [Oishi Park](https://www.google.com/maps/search/?api=1&query=Oishi+Park%2C+2585+Oishi%2C+Fujikawaguchiko%2C+Yamanashi+401-0305)
 
@@ -90,7 +126,8 @@ At Oishi Park:
 ### Leg 3 — Oishi Park To Saiko Iyashi-no-Sato Nenba
 
 - **Time:** `2:25-3:10 PM`
-- **Drive:** about `45m`
+- **Google Maps drive:** `10.6 km`, about `19m`
+- **Schedule block:** `45m`, allowing for lakeside traffic, parking exit time, and local-road slowdown.
 - **Map:** [Oishi Park -> Saiko Iyashi-no-Sato Nenba](https://www.google.com/maps/dir/?api=1&origin=Oishi+Park%2C+2585+Oishi%2C+Fujikawaguchiko%2C+Yamanashi+401-0305&destination=Saiko+Iyashi-no-Sato+Nenba%2C+2710+Saiko+Nenba%2C+Fujikawaguchiko%2C+Yamanashi+401-0332&travelmode=driving)
 - **Destination:** [Saiko Iyashi-no-Sato Nenba](https://www.google.com/maps/search/?api=1&query=Saiko+Iyashi-no-Sato+Nenba%2C+2710+Saiko+Nenba%2C+Fujikawaguchiko%2C+Yamanashi+401-0332)
 
@@ -112,7 +149,8 @@ At Nenba:
 ### Leg 4 — Nenba To Narusawa Ice Cave
 
 - **Time:** `4:00-4:25 PM`
-- **Drive:** about `25m`
+- **Google Maps drive:** `5.7 km`, about `8m`
+- **Schedule block:** `25m`, allowing for leaving the village, parking exit, and local-road delay.
 - **Map:** [Saiko Iyashi-no-Sato Nenba -> Narusawa Ice Cave](https://www.google.com/maps/dir/?api=1&origin=Saiko+Iyashi-no-Sato+Nenba%2C+2710+Saiko+Nenba%2C+Fujikawaguchiko%2C+Yamanashi+401-0332&destination=Narusawa+Ice+Cave%2C+8533+Narusawa%2C+Yamanashi+401-0320&travelmode=driving)
 - **Destination:** [Narusawa Ice Cave](https://www.google.com/maps/search/?api=1&query=Narusawa+Ice+Cave%2C+8533+Narusawa%2C+Yamanashi+401-0320)
 
@@ -135,7 +173,8 @@ At Narusawa Ice Cave:
 ### Leg 5 — Narusawa Ice Cave To Lake Motosuko Observation Park
 
 - **Time:** `4:50-5:20 PM`
-- **Drive:** about `30m`
+- **Google Maps drive:** `13.3 km`, about `17m`
+- **Schedule block:** `30m`, allowing for cave parking exit and west-lake traffic.
 - **Map:** [Narusawa Ice Cave -> Lake Motosuko Observation Park](https://www.google.com/maps/dir/?api=1&origin=Narusawa+Ice+Cave%2C+8533+Narusawa%2C+Yamanashi+401-0320&destination=Lake+Motosuko+Observation+Park%2C+Nakanokura%2C+Minobu%2C+Yamanashi+409-3104&travelmode=driving)
 - **Destination:** [Lake Motosuko Observation Park](https://www.google.com/maps/search/?api=1&query=Lake+Motosuko+Observation+Park%2C+Nakanokura%2C+Minobu%2C+Yamanashi+409-3104)
 
@@ -157,7 +196,8 @@ At Lake Motosu:
 ### Leg 6 — Lake Motosu To Lake Shoji
 
 - **Time:** `5:40-5:55 PM`
-- **Drive:** about `15m`
+- **Google Maps drive:** `9.1 km`, about `13m`
+- **Schedule block:** `15m`
 - **Map:** [Lake Motosuko Observation Park -> Lake Shoji](https://www.google.com/maps/dir/?api=1&origin=Lake+Motosuko+Observation+Park%2C+Nakanokura%2C+Minobu%2C+Yamanashi+409-3104&destination=Lake+Shoji%2C+Shoji%2C+Fujikawaguchiko%2C+Yamanashi+401-0336&travelmode=driving)
 - **Destination:** [Lake Shoji](https://www.google.com/maps/search/?api=1&query=Lake+Shoji%2C+Shoji%2C+Fujikawaguchiko%2C+Yamanashi+401-0336)
 
@@ -177,7 +217,8 @@ At Lake Shoji:
 ### Leg 7 — Lake Shoji To Shinjuku Overnight Parking
 
 - **Time:** `6:10-8:00 PM+`
-- **Drive:** about `1h 50m+`, depending on Chuo return traffic
+- **Google Maps drive:** `121 km`, about `1h 49m`
+- **Schedule block:** `1h 50m+`, depending on Chuo return traffic
 - **Primary map:** [Lake Shoji -> Public Shinjuku Parking](https://www.google.com/maps/dir/?api=1&origin=Lake+Shoji%2C+Shoji%2C+Fujikawaguchiko%2C+Yamanashi+401-0336&destination=Public+Shinjuku+Parking%2C+2-10-1+Kabukicho%2C+Shinjuku-ku%2C+Tokyo+160-0021&travelmode=driving)
 - **Primary parking destination:** [Public Shinjuku Parking](https://www.google.com/maps/search/?api=1&query=Public+Shinjuku+Parking%2C+2-10-1+Kabukicho%2C+Shinjuku-ku%2C+Tokyo+160-0021)
 - **West-side backup parking:** [Times Nishi-Shinjuku 4-chome No. 4](https://www.google.com/maps/search/?api=1&query=Times+Nishi-Shinjuku+4-chome+No.4%2C+4-21+Nishi-Shinjuku%2C+Shinjuku-ku%2C+Tokyo)
@@ -240,10 +281,142 @@ Use this priority order unless your hotel location makes another option better:
 - Park first, then eat.
 - Keep enough energy for careful city driving at the end of the day.
 
-## End State
+## Base Plan End State
 
 - Car is parked overnight in `Shinjuku`.
 - Valuables are removed.
 - Parking ticket is saved.
 - Next-morning return to `OnlyJDM Haneda` is planned.
 - Do not treat the car return as solved until `OnlyJDM` has confirmed next-morning return is acceptable.
+
+## Optional Add-Ons Along This Route
+
+These are the best realistic add-ons. Do **not** add more than one unless you intentionally cut or shorten existing stops.
+
+### Best Add-On 1 — Mt. Fuji Panoramic Ropeway
+
+- **Where it goes:** after `Tenka Chaya`, before `Oishi Park`.
+- **Route impact:** `Tenka Chaya -> Ropeway -> Oishi Park` is about `19.5 km / 35m` on Google Maps, versus `12.7 km / 23m` direct. Extra driving is about `12m`.
+- **Time at stop:** about `60-90m`, depending on parking and queue.
+- **Total added time:** about `70-100m`.
+- **Cost:** round trip is about `JPY 1,000` adult / `JPY 500` child.
+- **Hours:** generally `8:30 AM-5:00 PM`, with final downhill ropeway after closing time; check same-day operations.
+- **Parking:** the ropeway itself has no dedicated large parking plan; use the nearby prefectural free lot by Lake Kawaguchi, listed around `300 cars`.
+- **Use this if:** Fuji is visible and you want one bigger scenic activity.
+- **Do not use this if:** the outbound drive is already late. It will push the whole west-lake half of the day later.
+
+### Best Add-On 2 — Fugaku Wind Cave
+
+- **Where it goes:** after `Narusawa Ice Cave`, before `Lake Motosuko Observation Park`.
+- **Route impact:** `Narusawa Ice Cave -> Fugaku Wind Cave -> Lake Motosuko Observation Park` is about `13.4 km / 17m` on Google Maps, essentially the same drive time as going directly from `Narusawa Ice Cave` to `Lake Motosuko Observation Park`.
+- **Time at stop:** about `25-40m`.
+- **Total added time:** about `25-40m`.
+- **Cost:** about `JPY 350` adult / `JPY 200` child.
+- **Hours:** seasonal; commonly listed around `9:00 AM-4:00/5:00 PM`.
+- **Use this if:** you are running at least `30m` ahead of the base schedule, or if you decide to replace `Narusawa Ice Cave` with `Fugaku Wind Cave`.
+- **Do not use this if:** you finish `Narusawa Ice Cave` near `4:50 PM`. That is too close to typical closing time.
+
+### Best Add-On 3 — Fuji Shibazakura Festival
+
+- **Where it goes:** after `Oishi Park`, before `Nenba`, if you choose to add it.
+- **Route impact:** `Oishi Park -> Fuji Shibazakura Festival -> Nenba` is about `34.8 km / 49m` on Google Maps, versus `10.6 km / 19m` direct. Extra driving is about `30m`.
+- **Time at stop:** about `60m`.
+- **Total added time:** about `90m`, plus any festival parking congestion.
+- **Date fit:** April 28 is during the 2026 festival period.
+- **Hours on April 28:** listed as `8:00 AM-4:00 PM`.
+- **Cost on April 28:** same-day admission is about `JPY 1,300` adult / `JPY 700` child during the peak-price window; parking is about `JPY 1,000` per car.
+- **Use this if:** the flowers and Fuji visibility are excellent and you are willing to make the day more rushed.
+- **Do not use this as a casual add-on:** with the current schedule, this stop closes too early to add after the cave or after Lake Motosu. If you add it, you should shorten or skip another stop.
+
+### Best Add-On 4 — Chureito Pagoda / Arakurayama Sengen Park
+
+- **Where it goes:** after leaving Tokyo, before `Tenka Chaya`.
+- **Route impact:** `OnlyJDM Haneda -> Chureito -> Tenka Chaya` is about `133 km / 2h 13m` on Google Maps, versus `143 km / 2h 11m` direct. Extra driving is minimal, but the stop itself takes real time.
+- **Time at stop:** about `75-120m`.
+- **Total added time:** about `75-120m`.
+- **Cost:** park entry is free.
+- **Parking:** paid lots are listed around `JPY 1,000-1,500 / 6h`, depending on which lot is used. The main viewpoint requires a stair climb of about `398` steps from the shrine area.
+- **Use this if:** you want the iconic pagoda + Fuji view and Fuji is clearly visible.
+- **Do not use this if:** you want to preserve the full deep-lakes loop. This is a major walking/time commitment even though the drive detour is small.
+
+### Add-On Recommendation
+
+- **Most worthwhile if Fuji is visible:** `Mt. Fuji Panoramic Ropeway`.
+- **Easiest low-impact add-on:** `Fugaku Wind Cave`, but only if you are ahead of schedule or using it as a replacement cave.
+- **Best seasonal add-on:** `Fuji Shibazakura Festival`, but it requires schedule surgery because of the `4:00 PM` close on April 28.
+- **Most iconic photo add-on:** `Chureito Pagoda`, but it is too time-heavy for the base loop unless you cut later stops.
+
+## Overnight Parking Near OnlyJDM Haneda
+
+Use this only if you decide to drive back to the Haneda / Omoriminami area at night, park near `OnlyJDM`, and return the car when the shop opens. Do **not** leave the car at `OnlyJDM` itself after hours unless the shop explicitly tells you to.
+
+Changing the overnight parking target from `Shinjuku` to the `OnlyJDM` area changes the final return leg:
+
+- `Lake Shoji -> Public Shinjuku Parking`: about `121 km / 1h 49m`
+- `Lake Shoji -> OnlyJDM Haneda area`: about `139 km / 2h 05m`
+- Full route ending near `OnlyJDM Haneda`: about `334 km / 208 mi`, about `5h 35m` baseline Google Maps driving
+
+### Best Default — Times Life Omoriminami
+
+- **Address:** `2-16 Omoriminami, Ota-ku, Tokyo`
+- **Distance from OnlyJDM:** about `160 m`, `2m` walking
+- **Hours:** `24h` in/out
+- **Spaces:** `15`
+- **Published pricing:** `JPY 1,320` maximum after parking for `24h`; normal rate `8:00 AM-12:00 AM` is `JPY 110 / 20m`, and `12:00 AM-8:00 AM` is `JPY 110 / 60m`
+- **Vehicle limits:** length `5.0 m`, width `1.9 m`, height `2.1 m`, weight `2.5 t`
+- **Why it is the best:** closest verified option and normal Times lot rules.
+
+### Cheapest Nearby Times Option — Times Omoriminami 3-chome
+
+- **Address:** `3-26 Omoriminami, Ota-ku, Tokyo`
+- **Distance from OnlyJDM:** about `850 m`, `12m` walking
+- **Hours:** `24h` in/out
+- **Spaces:** `5`
+- **Published pricing:** `JPY 880` maximum after parking for `24h`; normal rate `8:00 AM-10:00 PM` is `JPY 220 / 40m`, and `10:00 PM-8:00 AM` is `JPY 110 / 60m`
+- **Vehicle limits:** length `5.0 m`, width `1.9 m`, height `2.1 m`, weight `2.5 t`
+- **Main caveat:** fewer spaces and a longer walk back to the shop.
+
+### Closest Backup — Times Omoriminami No. 3
+
+- **Address:** `2-8 Omoriminami, Ota-ku, Tokyo`
+- **Distance from OnlyJDM:** about `700 m`, `10m` walking
+- **Hours:** `24h` in/out
+- **Spaces:** `4`
+- **Published pricing:** `JPY 1,650` maximum after parking for `24h`; normal rate `8:00 AM-10:00 PM` is `JPY 330 / 60m`, and `10:00 PM-8:00 AM` is `JPY 110 / 60m`
+- **Vehicle limits:** length `5.0 m`, width `1.9 m`, height `2.1 m`, weight `2.5 t`
+- **Main caveat:** only `4` spaces.
+
+### Reservation Backup — akippa Omoriminami 2-24-8
+
+- **Address:** `2-24-8 Omoriminami, Ota-ku, Tokyo`
+- **Distance from OnlyJDM:** about `700 m`, `10m` walking
+- **Hours:** `00:00-23:59`
+- **Published pricing:** from about `JPY 690 / day`
+- **Vehicle limits:** length `4.6 m`, width `2.5 m`, height `2.6 m`
+- **Why it is useful:** reservation can reduce late-night parking stress.
+- **Main caveat:** private/reservation-style space. The GR Supra should fit the published size limits, but the `4.6 m` length limit is tighter than the Times lots, so park carefully and verify the reservation details before relying on it.
+
+### D Parking Omoriminami 2-chome No. 3
+
+- **Address:** `2-6-13 Omoriminami, Ota-ku, Tokyo`
+- **Distance from OnlyJDM:** about `650 m`, `9m` walking
+- **Hours:** `24h`
+- **Spaces:** `4`
+- **Published pricing:** `JPY 1,300` maximum for `24h`; night maximum `8:00 PM-8:00 AM` is `JPY 600`
+- **Vehicle limits:** height `2.0 m`, width `1.9 m`, length `4.8 m`, weight `2.0 t`, minimum ground clearance `15 cm`
+- **Main caveat:** the published restrictions warn against some low-clearance / aero-equipped / modified vehicles. Treat this as a backup, not the first choice for a Supra.
+
+### Haneda-Side Parking Recommendation
+
+1. Use `Times Life Omoriminami` first.
+2. Use `Times Omoriminami 3-chome` if you want the cheapest simple Times option and do not mind the walk.
+3. Use `Times Omoriminami No. 3` as the closer small-lot backup.
+4. Use `akippa Omoriminami 2-24-8` if you want a reservation and have confirmed the vehicle-size fit.
+5. Avoid relying on `D Parking Omoriminami 2-chome No. 3` unless the other options are full, because its low-clearance / aero warning is less friendly for this car.
+
+## Final Accuracy Notes
+
+- All drive times and distances in the main route are based on Google Maps route data available during planning.
+- Google Maps web links may not preserve future departure timing, so re-check the route in the Google Maps app on April 28 before leaving `OnlyJDM Haneda`.
+- Parking prices and lot rules can change without notice. Confirm the posted sign before leaving the car overnight.
+- April 29 is `Showa Day`, a public holiday. If using `Public Shinjuku Parking`, do not assume access before `8:00 AM` on the holiday morning.
